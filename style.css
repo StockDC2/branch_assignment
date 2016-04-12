@@ -1,3 +1,18 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+#container {
+    width: 1300px;
+    margin: 0 auto;
+    text-align: center;
+}
+
 img {
-    display: block;
+    display: inline-block;
+}
+
+h1 {
+    text-decoration: underline;
 }
