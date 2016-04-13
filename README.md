@@ -1,13 +1,13 @@
 ## **README Test**
 
 ### Description
-###### This is a test and my first README.md file.
+This is a test and my first README.md file.
 
 ### Contributors
-###### StockDC2
+StockDC2
 
 ### Setup/Installation
-###### Absolutely nothing.
+Absolutely nothing.
 
 ### Test Unordered List
 
