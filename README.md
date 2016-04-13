@@ -9,6 +9,17 @@
 ### Setup/Installation
 ###### Absolutely nothing.
 
+### Test Unordered List
+
+* Bananas
+* Pikachu
+* Futuro
+
+### Test Ordered List
+1. Bah
+2. Bah Bah
+3. Bah Bah Bah
+
 ### Test Links
 [To Google](http://www.google.com/)
 
