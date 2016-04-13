@@ -9,7 +9,7 @@ body {
 
 #container {
     width: 1300px;
-    margin: 0 auto;
+    margin: 60px auto 0;
     text-align: center;
 }
 
@@ -20,4 +20,9 @@ img {
 
 h1 {
     text-decoration: underline;
+}
+
+a {
+    color: white;
+    font-style: normal;
 }
