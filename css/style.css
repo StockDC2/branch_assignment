@@ -1,6 +1,10 @@
 body {
     background-color: black;
     color: white;
+    font-family: 'Georgia';
+    line-height: 40px;
+    font-weight: bold;
+    font-style: italic;
 }
 
 #container {
